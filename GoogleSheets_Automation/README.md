@@ -1,4 +1,7 @@
 # How to Use the Google Sheet Automation Script
+
+- [Blog](https://muffincodes.github.io/posts/GoogleSheetAutomation/)
+
 This guide explains how to set up and configure the Google Apps Script to automate logging tasks from your Gmail to your Google Sheet.
 
 ## How to Set Up and Configure the Script
